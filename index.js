@@ -26,5 +26,5 @@ const newHeader = document.createElement('h1');
 document.body.appendChild(newHeader);
 newHeader.id = 'victory';
 newHeader.innerHTML = 'Lisa is the champion';
-newHeader.style.marginLeft = '80px';
+//newHeader.style.marginLeft = '80px';
 
